@@ -1,0 +1,49 @@
+.u-block-fc0d-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-fc0d-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-fc0d-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: linear-gradient(to right, #f19f80, #db545a);
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 864px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-size: 6rem;
+  background-image: none;
+  margin: 50px auto 0 0;
+}
+
+.u-section-1-1 .u-text-2 {
+  font-size: 28.125rem;
+  margin: 30px auto 60px -19px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    font-size: 1.875rem;
+  }
+}
